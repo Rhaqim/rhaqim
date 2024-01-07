@@ -4,6 +4,9 @@
 
 Hi there! I'm John-Franklin, a passionate software developer. I love exploring new technologies and building cool projects.
 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alaswadkhan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-franklin-anusiem-104692166)
+
 ## Tech Stack
 
 ### Languages
@@ -57,7 +60,7 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-## Projects
+## Currently Working On
 
 Here are some of the projects I've been working on:
 
@@ -66,11 +69,6 @@ Here are some of the projects I've been working on:
 3. [Doc Analyzer](https://github.com/Rhaqim/doc_analyzer) - AI project to use pretrained models for new data.
 
 Feel free to explore my repositories for more!
-
-## Let's Connect
-
-- LinkedIn: [John-Franklin](https://www.linkedin.com/in/john-franklin-anusiem-104692166)
-- Twitter: [@alaswadkhan](https://x.com/alaswadkhan)
 
 Happy coding! 🚀
 
