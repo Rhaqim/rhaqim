@@ -9,7 +9,8 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 
 ## Tech Stack
 
-### Languages
+<details>
+<summary>Backend</summary>
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -17,7 +18,10 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-### Frontend
+</details>
+
+<details>
+<summary>Frontend</summary>
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -25,7 +29,10 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### Database
+</details>
+
+<details>
+<summary>Database</summary>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -33,7 +40,10 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Tools
+</details>
+
+<details>
+<summary>Tools</summary>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -42,16 +52,25 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### DevOps
+</details>
+
+<details>
+<summary>DevOps</summary>
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Cloud
+</details>
+
+<details>
+<summary>Cloud</summary>
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-### Others
+</details>
+
+<details>
+<summary>Others</summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -62,6 +81,8 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
+</details>
+
 ## Currently Working On
 
 Here are some of the projects I've been working on:
@@ -71,8 +92,6 @@ Here are some of the projects I've been working on:
 3. [Doc Analyzer](https://github.com/Rhaqim/doc_analyzer) - AI project to use pretrained models for new data.
 
 Feel free to explore my repositories for more!
-
-![](https://komarev.com/ghpvc/?username=rhaqim)
 
 Happy coding! 🚀
 
