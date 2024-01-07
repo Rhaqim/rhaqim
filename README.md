@@ -6,19 +6,19 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 
 ## Tech Stack
 
-- **Languages:** JavaScript, Python
+- **Languages:** JavaScript, Python, Rust, Golang, Swift
 - **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code
-- **Other:** Docker, REST APIs
+- **Backend:** Python, Golang
+- **Database:** MongoDB, Postresql, MySQL
+- **Tools:** Git, VS Code, Docker, Kubernetes
+- **Cloud:** AWS, Azure
 
 ## Projects
 
 Here are some of the projects I've been working on:
 
-1. [Cascade]([github](https://github.com/Rhaqim/cascade)) - This is a CLI tool for load testing Nodes.
-2. [Jobs we want ](https://github.com/Rhaqim/jobs_we_want) - A chrome extention to track and analyse jobs applied to on linkedIn.
+1. [Cascade](https://github.com/Rhaqim/cascade) - This is a CLI tool for load testing Nodes.
+2. [Jobs we want](https://github.com/Rhaqim/jobs_we_want) - A chrome extention to track and analyse jobs applied to on linkedIn.
 3. [Doc Analyzer](https://github.com/Rhaqim/doc_analyzer) - AI project to use pretrained models for new data.
 
 Feel free to explore my repositories for more!
