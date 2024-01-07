@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm John-Franklin, a passionate software developer. I love exploring new technologies and building cool projects. ![](https://komarev.com/ghpvc/?username=rhaqim)
+Hi there! I'm John-Franklin, a passionate software developer. I love exploring new technologies and building cool projects.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alaswadkhan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-franklin-anusiem-104692166)
@@ -71,6 +71,8 @@ Here are some of the projects I've been working on:
 3. [Doc Analyzer](https://github.com/Rhaqim/doc_analyzer) - AI project to use pretrained models for new data.
 
 Feel free to explore my repositories for more!
+
+![](https://komarev.com/ghpvc/?username=rhaqim)
 
 Happy coding! 🚀
 
