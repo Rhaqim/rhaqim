@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm John-Franklin, a passionate software developer. I love exploring new technologies and building cool projects.
+Hi there! I'm John-Franklin, a passionate software developer. I love exploring new technologies and building cool projects. ![](https://komarev.com/ghpvc/?username=rhaqim)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alaswadkhan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-franklin-anusiem-104692166)
