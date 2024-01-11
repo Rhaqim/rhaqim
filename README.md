@@ -99,7 +99,7 @@ Here are some of the projects I've been working on:
 
 Feel free to explore my repositories for more!
 
-![](https://komarev.com/ghpvc/?username=rhaqim&color=green)
+![](https://komarev.com/ghpvc/?username=rhaqim)
 
 Happy coding! 🚀
 
