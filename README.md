@@ -93,7 +93,7 @@ Hi there! I'm John-Franklin, a passionate software developer. I love exploring n
 
 Here are some of the projects I've been working on:
 
-1. [Garth](https://github.com/Rhaqim/garth) - Go CLI for generating starting files with different architectures.
+1. [Garch](https://github.com/Rhaqim/garch-go) - Go CLI for generating starting files with different architectures.
 1. [Cascade](https://github.com/Rhaqim/cascade) - This is a CLI tool for load testing Nodes.
 2. [Jobs we want](https://github.com/Rhaqim/jobs_we_want) - A chrome extention to track and analyse jobs applied to on linkedIn.
 3. [Doc Analyzer](https://github.com/Rhaqim/doc_analyzer) - AI project to use pretrained models for new data.
