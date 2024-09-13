@@ -1,8 +1,4 @@
-# Rhaqim's GitHub
-
-## About Me
-
-Hi there! I'm John-Franklin, a passionate software developer. I love exploring new technologies and building cool projects.
+# Rhaqim
 
 </details>
 
