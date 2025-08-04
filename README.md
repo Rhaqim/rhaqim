@@ -44,8 +44,6 @@
 </h1>
 </div>
 
----
-
 > _Building things that matter. Breaking things that don't._
 
 ### ⚙️ Developer Philosophy
