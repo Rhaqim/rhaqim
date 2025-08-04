@@ -1,34 +1,55 @@
-# Rhaqim
+<!-- GitHub Profile README -->
 
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,svelte,astro,postgres,redis,docker,nginx,linux,git&theme=dark" alt="Stack" />
+</p>
 
-## Currently Working On
+---
 
-Here are some of the projects I've been working on:
+> _Building things that matter. Breaking things that don't._
 
-1. [USSDFramework](https://github.com/Rhaqim/ussdframework) - A Rust based USSD Framework package for building USSD applications.
-2. [Buckt](https://github.com/Rhaqim/buckt) - Media storage server for Golang.
-3. [Gomail](https://github.com/Rhaqim/gomail) - A Golang package for sending email templates.
-4. [GarchGo](https://github.com/Rhaqim/garch-go) - Go CLI for generating starting files with different architectures.
+### ⚙️ Developer Philosophy
 
+- Clean code isn't a style, it's a statement.
+- Systems should be fast, fault-tolerant, and fun to build.
+- If it scales, caches, logs, and watches itself we're just getting started.
 
-Feel free to explore my repositories for more!
+### 🧠 Interests
 
-![](https://komarev.com/ghpvc/?username=rhaqim)
+- Low-level systems & daemon tooling  
+- Async architectures & job orchestration  
+- Vector databases & data structures  
+- Story engines, AI pipelines, and token-gated access  
+- Multi-tenant platforms with secure API boundaries  
 
-Happy coding! 🚀
+---
 
-<!--
-**Rhaqim/rhaqim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Toolbox
 
-Here are some ideas to get you started:
+```bash
+# Languages
+Go        # structured, simple, and strict
+TypeScript# typed, composable, predictable
+SQL       # raw, expressive, precise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools & Systems
+Redis     # fast and versatile
+Postgres  # relational power
+Docker    # containerized clarity
+Podman    # daemonless by choice
+Nginx     # solid as steel
+```
+
+---
+
+### 🚀 What’s Next?
+
+Silence the noise.  
+Build the signal.  
+Ship things that whisper elegance in their execution.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
