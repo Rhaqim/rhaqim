@@ -6,6 +6,46 @@
 
 ---
 
+<!-- Rhaqim Banner with Darkened Background and Larger Text -->
+
+<div align="center" style="
+  background-image: url('https://www.rhaqim.com/_next/image?url=%2Fimages%2Fbusiness.png&w=828&q=75');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 300px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+">
+
+<!-- Dark Overlay -->
+<div style="
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+"></div>
+
+<h1 style="
+  position: relative;
+  z-index: 2;
+  color: red;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 5rem;
+  opacity: 0.9;
+  pointer-events: none;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+  margin: 0;
+">
+  ラキム
+</h1>
+</div>
+
+---
+
 > _Building things that matter. Breaking things that don't._
 
 ### ⚙️ Developer Philosophy
