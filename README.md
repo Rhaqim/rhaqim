@@ -54,9 +54,7 @@
 
 ### 🧠 Interests
 
-- Low-level systems & daemon tooling  
 - Async architectures & job orchestration  
-- Vector databases & data structures  
 - Story engines, AI pipelines, and token-gated access  
 - Multi-tenant platforms with secure API boundaries  
 
@@ -67,6 +65,8 @@
 ```bash
 # Languages
 Go        # structured, simple, and strict
+Rust      # memory safe
+Python    # Introduction to programming
 TypeScript# typed, composable, predictable
 SQL       # raw, expressive, precise
 
